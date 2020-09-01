@@ -1,4 +1,4 @@
-# Chemical Space Map and Machine Learning Separate Bacterial from Fungal Natural Products
+# Assigning the Origin of Microbial Natural Products by Chemical Space Map and Machine Learning
 
 
 ![The Natural Product Atlas MAP4 TMAP](https://cloud.gdb.tools/s/9fyBXDHDGSwmbWY/preview)
